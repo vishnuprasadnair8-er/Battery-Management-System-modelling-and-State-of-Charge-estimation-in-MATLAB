@@ -1,0 +1,2 @@
+# Battery-Management-System-modelling-and-State-of-Charge-estimation-in-MATLAB
+This project's main goal is to create a comprehensive Battery Management System (BMS) model using MATLAB. This BMS model should be able to precisely incorporate important variables including capacity characteristics, voltage, and current when determining the State of Charge (SOC) of a battery pack during its charge and discharge cycles.
